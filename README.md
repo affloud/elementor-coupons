@@ -1,4 +1,4 @@
-# Elementor Free Trial, Coupons and Pricing Plans in 2025
+# Elementor Coupons, Free Trial, Discount Codes 2025
 
 Elementor is a leading WordPress website builder that empowers users to create professional, responsive websites without any coding knowledge. With its intuitive drag-and-drop interface, Elementor offers a seamless design experience suitable for beginners, freelancers, and agencies alike.
 
@@ -17,7 +17,7 @@ With over 5 million active installations, Elementor has become a leading tool in
 | Feature                  | Details                                                                   |
 | ------------------------ | ------------------------------------------------------------------------- |
 | **Software Name**        | Elementor                                                                 |
-| **Official Website**     | [elementor.com](https://elementor.com)                                    |
+| **Official Website**     | [elementor.com](https://afftrend.com/elementor)                                    |
 | **Developers**           | Elementor Ltd.                                                            |
 | **Unique Selling Point** | No-code drag-and-drop builder with deep WordPress integration             |
 | **Software Category**    | WordPress Website Builder Plugin                                          |
