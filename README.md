@@ -12,7 +12,7 @@ Elementor is a leading WordPress website builder that empowers users to create p
 
 Elementor is a powerful WordPress page builder plugin that allows users to create high-quality, custom websites with a visual drag-and-drop interface. It's widely used by designers, developers, marketers, and business owners who want to build professional websites without needing to write any code.
 
-With over 5 million active installations, Elementor has become a leading tool in the WordPress ecosystem. It supports responsive design, integrates with popular marketing tools, and offers advanced customization through features like Theme Builder, Popup Builder, and WooCommerce integration. Whether you're designing a simple landing page or a full-scale eCommerce store, Elementor provides the flexibility and functionality you need.
+With over 5 million active installations, **Elementor** has become a leading tool in the WordPress ecosystem. It supports responsive design, integrates with popular marketing tools, and offers advanced customization through features like Theme Builder, Popup Builder, and WooCommerce integration. Whether you're designing a simple landing page or a full-scale eCommerce store, Elementor provides the flexibility and functionality you need.
 
 | Feature                  | Details                                                                   |
 | ------------------------ | ------------------------------------------------------------------------- |
