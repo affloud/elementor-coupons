@@ -127,7 +127,7 @@ Elementor occasionally provides a **7-day free trial** of Elementor Pro. Key det
 - **Post-Trial Access**: After 7 days, Pro widgets become inaccessible unless a subscription is purchased.
 - **Support**: Support services are not included during the trial period.
 
-## Current Elementor Discounts & Promo Codes
+## Elementor Discounts & Promo Codes
 
 <a href="https://afftrend.com/elementor">
   <img src="https://drive.google.com/uc?export=view&id=1v4-DrNvLvRlekNvz_GIaxRsclp3hwZSr" width="800px" alt="">
