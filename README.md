@@ -4,7 +4,7 @@ Elementor is a leading WordPress website builder that empowers users to create p
 
 **Elementor** is a **WordPress page builder plugin** that allows users to build beautiful, fully responsive websites using a **visual drag-and-drop editor**, without writing any code. It's designed for **designers, developers, marketers, bloggers, and business owners** looking for flexibility and ease of use.
 
-## Elementor Overview
+## Elementor Highlights
 
 <a href="https://afftrend.com/elementor">
   <img src="https://drive.google.com/uc?export=view&id=15d0qVxXlwTdBTf-e6kA3TdeLoSHlXyR1" width="800px" alt="">
